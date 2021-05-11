@@ -13,6 +13,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="ThreadsCrawlers" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.13.1" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/ThreadsCrawlers-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
